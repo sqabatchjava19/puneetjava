@@ -1,10 +1,8 @@
-package ArrayBasic;
-
 import java.util.*;
 public class BasicAray {
 
 	public static void main(String[] args) {
-		
+
 		int arr[] = {1,2,3,6,7,8};
 		System.out.println(Arrays.toString(arr)); // [10, 20, 30, 40, 50, 60, 70, 80]
 		
