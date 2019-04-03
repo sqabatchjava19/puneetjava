@@ -4,7 +4,7 @@ public class BasicAray {
 	public static void main(String[] args) {
 
 		
-		int arr[] = {1,2,3,6,7,11};
+		int arr[] = {1,2,3,6,7,12};
 
 
 		int arr[] = {1,2,3,6,7,8};
