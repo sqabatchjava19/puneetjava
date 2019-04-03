@@ -1,12 +1,9 @@
-/* package ArrayBasic;
 
-import java.util.*; */
 public class BasicAray {
 
 	public static void main(String[] args) {
 		
-		System.out.println(" Basic Array file here ");
-		/* int arr[] = {10,20,30,40,50,60,70,80};
+		int arr[] = {10,20,30,40,50,60,70,80};
 		System.out.println(Arrays.toString(arr)); // [10, 20, 30, 40, 50, 60, 70, 80]
 		
 		
@@ -32,7 +29,7 @@ public class BasicAray {
 		
 		// read 4th index value of arr array
 		
-		System.out.println(arr[3]); */
+		System.out.println(arr[3]);
 	
 	}
 
